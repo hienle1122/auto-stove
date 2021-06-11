@@ -1,1 +1,1 @@
-# auto-stove
+# Auto Stove
